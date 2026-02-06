@@ -15,19 +15,23 @@ Admins can manage users, menu items, categories, and track all orders.
 ## Features
 
 ### User Side
+
 - User registration and login
 - View menu with all available items
 - Add items to cart and manage cart items
 - Add and manage delivery addresses
 - Checkout and place orders
 - Order confirmation after successful placement
+  
 ### Admin Side
+
 - View all registered users
 - Manage menu categories
 - View all menu items with their categories
 - Track all orders placed by users
 
 ### Backend
+
 - All data (users, addresses, orders, menu items, cart) stored in DB.
 - RESTful APIs for communication between frontend and backend
 
@@ -141,7 +145,6 @@ Admins can manage users, menu items, categories, and track all orders.
 
 ### Clone the repository
 
-```bash
 git clone "github repo url"
 cd mern-projects
 
