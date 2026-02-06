@@ -137,6 +137,29 @@ Admins can manage users, menu items, categories, and track all orders.
 ```
 
 
+## Installation
+
+### Clone the repository
+
+```bash
+git clone "github repo url"
+cd mern-projects
+
+### Setup Backend
+
+cd backend
+npm install
+npm run dev
+
+### Setup Frontend
+
+cd user-freshplate
+npm install
+npm start
+
+---
+
+
 ## Usage
 
 ### User
