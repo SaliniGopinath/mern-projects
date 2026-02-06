@@ -38,7 +38,7 @@ Admins can manage users, menu items, categories, and track all orders.
 
 ## Project Structure
 
-mern-projects/
+```mern-projects/
 ├── backend/                            # Express backend
 │   ├── app/api/controllers/            # Request handlers for different features
 │   │   ├── adminController.js
@@ -131,5 +131,5 @@ mern-projects/
 ├── .gitignore
 ├── package.json                        # Root project dependencies
 ├── package-lock.json
-└── README.md
+└── README.md```
 
