@@ -135,21 +135,21 @@ Admins can manage users, menu items, categories, and track all orders.
 └── README.md```
 
 
-## Usage 
+## Usage
 
-###User
-Register or login
-Browse the menu and add items to cart
-Checkout and add your address
-Confirm your order and view the success message
+### User
+- Register or login
+- Browse the menu and add items to the cart
+- Checkout and add your address
+- Confirm your order and view the success message
 
-###Admin
-Go to the admin panel
-View users, categories, menu items, and all orders
+### Admin
+- Go to the admin panel
+- View all users, categories, menu items, and orders
+
 
 ## Future Enhancements
-
-Payment gateway integration
-User profile management
-Order status tracking
-Push notifications for order updates
+- Payment gateway integration
+- User profile management
+- Order status tracking
+- Push notifications for order updates
