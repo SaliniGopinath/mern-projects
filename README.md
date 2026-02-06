@@ -132,7 +132,9 @@ Admins can manage users, menu items, categories, and track all orders.
 ├── .gitignore
 ├── package.json                        # Root project dependencies
 ├── package-lock.json
-└── README.md```
+└── README.md
+
+```
 
 
 ## Usage
