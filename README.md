@@ -10,6 +10,7 @@ Admins can manage users, menu items, categories, and track all orders.
 - [Project Structure](#project-structure)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Future Enhancements](#future-enhancements)
 
 ## Features
 
@@ -133,3 +134,22 @@ Admins can manage users, menu items, categories, and track all orders.
 ├── package-lock.json
 └── README.md```
 
+
+## Usage 
+
+###User
+Register or login
+Browse the menu and add items to cart
+Checkout and add your address
+Confirm your order and view the success message
+
+###Admin
+Go to the admin panel
+View users, categories, menu items, and all orders
+
+## Future Enhancements
+
+Payment gateway integration
+User profile management
+Order status tracking
+Push notifications for order updates
