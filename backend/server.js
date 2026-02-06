@@ -31,8 +31,12 @@ app.use('/user',user);
 app.use('/admin',admin);
 app.use('/cart',cart);
 app.use('/order',order);
-app.listen(4000,function(){
-    console.log('Node server listening on port 4000')
+// app.listen(4000,function(){
+//     console.log('Node server listening on port 4000')
+// });
+const PORT = process.env.PORT || 4000;
+app.listen(PORT, () => {
+    console.log(`Node server listening on port ${PORT}`);
 });
 
 
